@@ -1,4 +1,4 @@
-// 예제 6-7
+package Example;// 예제 6-7
 
 public class E6_7_StringEx {
     public static void main(String[] args) {

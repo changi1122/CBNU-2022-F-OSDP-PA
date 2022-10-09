@@ -1,4 +1,4 @@
-// 예제 5-6
+package Example;// 예제 5-6
 
 class Weapon {
     protected int fire() {

@@ -1,4 +1,4 @@
-// 예제 6-1
+package Example;// 예제 6-1
 
 class E6_1_Point {
     int x, y;

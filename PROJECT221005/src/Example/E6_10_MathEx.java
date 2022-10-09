@@ -1,4 +1,4 @@
-// 예제 6-10
+package Example;// 예제 6-10
 
 public class E6_10_MathEx {
     public static void main(String[] args) {

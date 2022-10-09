@@ -1,4 +1,4 @@
-// 예제 5-7
+package Example;// 예제 5-7
 
 abstract class Calculator {
     public abstract int add(int a, int b);

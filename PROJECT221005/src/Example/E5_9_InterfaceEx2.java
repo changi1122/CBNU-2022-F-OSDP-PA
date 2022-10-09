@@ -1,4 +1,4 @@
-// 예제 5-9
+package Example;// 예제 5-9
 
 // PhoneInterface는 E5_8에 위치함.
 

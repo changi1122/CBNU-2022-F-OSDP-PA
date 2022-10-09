@@ -1,4 +1,4 @@
-// 예제 6-5
+package Example;// 예제 6-5
 
 public class E6_5_WrapperEx {
     public static void main(String[] args) {

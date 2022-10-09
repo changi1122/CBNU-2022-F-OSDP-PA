@@ -1,4 +1,4 @@
-// 예제 6-8
+package Example;// 예제 6-8
 
 public class E6_8_StringBufferEx {
     public static void main(String[] args) {

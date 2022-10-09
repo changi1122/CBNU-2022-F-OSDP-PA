@@ -1,4 +1,4 @@
-// 예제 6-11
+package Example;// 예제 6-11
 
 import java.util.Calendar;
 

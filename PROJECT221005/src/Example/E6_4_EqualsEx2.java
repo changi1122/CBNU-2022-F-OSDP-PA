@@ -1,4 +1,4 @@
-// 예제 6-4
+package Example;// 예제 6-4
 
 class E6_4_Rect {
     int width;

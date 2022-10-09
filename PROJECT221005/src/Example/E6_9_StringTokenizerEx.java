@@ -1,4 +1,4 @@
-// 예제 6-9
+package Example;// 예제 6-9
 
 import java.util.StringTokenizer;
 

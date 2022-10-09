@@ -1,4 +1,4 @@
-// 예제 5-3
+package Example;// 예제 5-3
 
 class Point {
     private int x, y;

@@ -1,4 +1,4 @@
-// 예제 5-2
+package Example;// 예제 5-2
 
 class Person {
     private int weight;

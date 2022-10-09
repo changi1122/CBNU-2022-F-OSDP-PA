@@ -1,4 +1,4 @@
-// 예제 6-2
+package Example;// 예제 6-2
 
 class E6_2_Point {
     int x, y;
@@ -8,7 +8,7 @@ class E6_2_Point {
     }
 
     public String toString() {
-        return "Point(" + x + "," + y + ")";
+        return "Example.Point(" + x + "," + y + ")";
     }
 }
 

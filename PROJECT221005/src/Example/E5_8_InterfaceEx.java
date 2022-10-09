@@ -1,4 +1,4 @@
-// 예제 5-8
+package Example;// 예제 5-8
 
 interface PhoneInterface {
     final int TIMEOUT = 10000;

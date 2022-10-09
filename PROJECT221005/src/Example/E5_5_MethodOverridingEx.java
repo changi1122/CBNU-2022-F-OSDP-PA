@@ -1,29 +1,29 @@
-// 예제 5-5
+package Example;// 예제 5-5
 
 class Shape {
     public Shape next;
     public Shape() { next = null; }
 
     public void draw() {
-        System.out.println("Shape");
+        System.out.println("Example.Shape");
     }
 }
 
 class Line extends Shape {
     public void draw() {
-        System.out.println("Line");
+        System.out.println("Example.Line");
     }
 }
 
 class Rect extends Shape {
     public void draw() {
-        System.out.println("Rect");
+        System.out.println("Example.Rect");
     }
 }
 
 class Circle extends Shape {
     public void draw() {
-        System.out.println("Circle");
+        System.out.println("Example.Circle");
     }
 }
 
