@@ -4,3 +4,4 @@
 - [2022-09-14](https://github.com/changi1122/CBNU-2022-F-OSDP-PA/tree/main/PROJECT220914)
 - [2022-09-21](https://github.com/changi1122/CBNU-2022-F-OSDP-PA/tree/main/PROJECT220921)
 - [2022-09-28](https://github.com/changi1122/CBNU-2022-F-OSDP-PA/tree/main/PROJECT220928)
+- [2022-10-05](https://github.com/changi1122/CBNU-2022-F-OSDP-PA/tree/main/PROJECT221005)
