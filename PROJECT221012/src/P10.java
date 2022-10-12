@@ -40,7 +40,7 @@ public class P10 {
             int cmd = sc.nextInt();
 
             if (cmd == 1) {
-                System.out.println("Line(1), Rect(2), Circle(3)>>");
+                System.out.print("Line(1), Rect(2), Circle(3)>>");
                 int s = sc.nextInt();
                 if (s == 1)
                     shapes.add(new Line());

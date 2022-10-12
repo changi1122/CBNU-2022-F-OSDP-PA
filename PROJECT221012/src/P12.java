@@ -52,6 +52,7 @@ public class P12 {
     static void addWord(Vector<Word> v, Scanner sc)
     {
         System.out.println("영어 단어에 그만을 입력하면 입력을 종료합니다.");
+        sc.nextLine();
         while (true) {
             System.out.print("영어 한글 입력>>");
             String line = sc.nextLine();
