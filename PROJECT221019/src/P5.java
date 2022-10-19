@@ -6,12 +6,11 @@ import java.util.Objects;
 
 public class P5 extends JFrame {
     public P5() {
-        setTitle("Ten Color Buttons Frame");
+        setTitle("4x4 Color Frame");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         GridLayout grid = new GridLayout(4, 4);
         Container c = getContentPane();
-        c.setLayout(grid);
         c.setLayout(grid);
 
         Color[][] colors = { { Color.red, Color.orange, Color.yellow, Color.green },
